@@ -14,7 +14,7 @@ int main() {
                //they will choose to do home work
             break;
         default: //default case
-            cout<< "he has no time" << endl ;//they want to play this intrested game however they want to go their home for studying
+            cout<< "they have no time" << endl ;//they want to play this intrested game however they want to go their home for studying
       }        
     return 0;
   }
